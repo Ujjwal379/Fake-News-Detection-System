@@ -20,7 +20,7 @@ The following **extensions** are implemented:
 * [x] Custom colors palette selected
 
 ## Notes
-For now the data is provided in the form of labels as an input not in textual format. Work over frontend part to create a webpage is still needed for easeness of the user.
+At present the data is provided in the form of labels as an input not in textual format. Work over frontend part to create a webpage is still needed for easeness of the user.
 
 ## License
 
