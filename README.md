@@ -1,6 +1,6 @@
 # Fake-News-Detection-System
 
-## *Ujjwal Gupta* 233
+## *Ujjwal Gupta* 
 
 **Fake-News-Detection-System** predicts wheather a news is fake or real using Machine Learning with Python. I have used Logistic Regression model for this binary classification(Prediction).The dataset for the training model taken from kaggle.
 
